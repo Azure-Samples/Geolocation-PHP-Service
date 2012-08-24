@@ -37,8 +37,8 @@ $app->before(function (Request $request) {
 });
 
 //Define our storage account name and keys
-define("STORAGE_ACCOUNT_NAME", "iostoolkitstorage1");
-define("STORAGE_ACCOUNT_KEY", "sy1qF9sLH7hPxBKzhRzL/eMdDGHTHjwH2jtUmtAgMByp7fQ1YIL8seiuP9FWLA/iCQ830NrTLY/rt3VZ28FoSQ==");
+define("STORAGE_ACCOUNT_NAME", "accountname");
+define("STORAGE_ACCOUNT_KEY", "accountkey");
 
 /** App Definition */
 
