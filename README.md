@@ -1,3 +1,9 @@
+---
+services:
+platforms:
+author: azure
+---
+
 # Geolocation - PHP Web Service
 The Geolocation web service is a PHP app made to store and retrieve geotagged photos and videos.  There are three end points to the service:
 * a method to fetch all of the tagged locations given a latitude and longitude as well as a radius in meters.
